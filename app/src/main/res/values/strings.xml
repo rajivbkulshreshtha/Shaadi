@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shaadi</string>
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="msg_no_internet">Internet not available.</string>
+	<string name="msg_something_wrong">Something went wrong!</string>
+	<string name="msg_error_enter_email">Please enter any email.</string>
+	<string name="hint_msg_enter_email">Please enter email address.</string>
+	<string name="btn_label_find">Find</string>
+	<string name="tv_label_no_data">No Data</string>
+    <string name="label_member_accepted">Member Accepted</string>
+	<string name="label_member_declined">Member Declined</string>
+	<string name="label_accept">Accept</string>
+	<string name="label_decline">Decline</string>
+</resources>
